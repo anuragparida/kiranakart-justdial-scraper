@@ -1,0 +1,1870 @@
+
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 4,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.973928114948855,
+            72.82645534973383,
+            18.981653550090208,
+            72.8373477508521
+          ],
+          "name": "Agripada, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.97779083251953,
+              72.83190155029297
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Agripada, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.97779083251953,
+                72.83190155029297
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            61.8845100402832,
+            9.583856582641602,
+            62.69674301147461,
+            11.958393096923828
+          ],
+          "name": "25, Norway",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              62.30462646484375,
+              10.670170783996582
+            ]
+          },
+          "address": {
+            "adminDistrict": "Hedmark",
+            "adminDistrict2": "Tynset",
+            "countryRegion": "Norway",
+            "formattedAddress": "25, Norway",
+            "locality": "Tynset",
+            "postalCode": "25"
+          },
+          "confidence": "Low",
+          "entityType": "Postcode2",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                62.30462646484375,
+                10.670170783996582
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            24.958196303425417,
+            86.73108984473728,
+            24.96592173856677,
+            86.74245141502834
+          ],
+          "name": "Maidan, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              24.962059020996094,
+              86.73677062988281
+            ]
+          },
+          "address": {
+            "adminDistrict": "BR",
+            "adminDistrict2": "Banka",
+            "countryRegion": "India",
+            "formattedAddress": "Maidan, India",
+            "locality": "Fullidumer"
+          },
+          "confidence": "Low",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                24.962059020996094,
+                86.73677062988281
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            33.67598499971448,
+            74.23053598907458,
+            33.68371043485583,
+            74.24291371795667
+          ],
+          "name": "Maidan, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              33.679847717285156,
+              74.23672485351562
+            ]
+          },
+          "address": {
+            "adminDistrict": "JK",
+            "adminDistrict2": "Punch",
+            "countryRegion": "India",
+            "formattedAddress": "Maidan, India",
+            "locality": "Sunderkote"
+          },
+          "confidence": "Low",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                33.679847717285156,
+                74.23672485351562
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "f28ce5b07335405689e7d8e9c8e886db|HK00000BDF|0.0.0.1|Ref A: 9EB4841847EB40F6B50DFC338A0154AC Ref B: HK2EDGE1013 Ref C: 2020-12-11T07:53:34Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 5,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.971357345581055,
+            72.82357788085938,
+            18.99510383605957,
+            72.83544158935547
+          ],
+          "name": "400011, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.982370376586914,
+              72.83479309082031
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "400011, India",
+            "locality": "Mumbai",
+            "postalCode": "400011"
+          },
+          "confidence": "Medium",
+          "entityType": "Postcode1",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.982370376586914,
+                72.83479309082031
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            6.760433197021484,
+            68.19502258300781,
+            37.07828140258789,
+            97.4153060913086
+          ],
+          "name": "India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              22.351993560791016,
+              79.36287689208984
+            ]
+          },
+          "address": {
+            "countryRegion": "India",
+            "formattedAddress": "India"
+          },
+          "confidence": "Medium",
+          "entityType": "CountryRegion",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                22.351993560791016,
+                79.36287689208984
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.978939056396484,
+            72.81453704833984,
+            18.991750717163086,
+            72.82475280761719
+          ],
+          "name": "Mahalaxmi Race Course, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.98554801940918,
+              72.81986999511719
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Mahalaxmi Race Course, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.98554801940918,
+                72.81986999511719
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.98344006258069,
+            72.80876247285941,
+            18.991165497722044,
+            72.81965549589059
+          ],
+          "name": "Mahalaxmi, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.987302780151367,
+              72.814208984375
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Mahalaxmi, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.987302780151367,
+                72.814208984375
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            59.83814239501953,
+            10.743602752685547,
+            59.90077209472656,
+            10.839695930480957
+          ],
+          "name": "11, Norway",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              59.869258880615234,
+              10.794114112854004
+            ]
+          },
+          "address": {
+            "adminDistrict": "Oslo",
+            "countryRegion": "Norway",
+            "formattedAddress": "11, Norway",
+            "locality": "Oslo",
+            "postalCode": "11"
+          },
+          "confidence": "Low",
+          "entityType": "Postcode2",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                59.869258880615234,
+                10.794114112854004
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "af6cb6bcc78f48169384ec15b729e9ac|HK00000C15|0.0.0.1|Ref A: E7F90D0144974D51AC8299BFA247CE87 Ref B: HK2EDGE0208 Ref C: 2020-12-11T07:53:34Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 4,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.971357345581055,
+            72.82357788085938,
+            18.99510383605957,
+            72.83544158935547
+          ],
+          "name": "400011, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.982370376586914,
+              72.83479309082031
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "400011, India",
+            "locality": "Mumbai",
+            "postalCode": "400011"
+          },
+          "confidence": "Medium",
+          "entityType": "Postcode1",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.982370376586914,
+                72.83479309082031
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.978939056396484,
+            72.81453704833984,
+            18.991750717163086,
+            72.82475280761719
+          ],
+          "name": "Mahalaxmi Race Course, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.98554801940918,
+              72.81986999511719
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Mahalaxmi Race Course, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.98554801940918,
+                72.81986999511719
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.98344006258069,
+            72.80876247285941,
+            18.991165497722044,
+            72.81965549589059
+          ],
+          "name": "Mahalaxmi, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.987302780151367,
+              72.814208984375
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Mahalaxmi, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.987302780151367,
+                72.814208984375
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            17.736827513752566,
+            78.48536111011472,
+            17.74455294889392,
+            78.49617575511965
+          ],
+          "name": "Masjid, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              17.740690231323242,
+              78.49076843261719
+            ]
+          },
+          "address": {
+            "adminDistrict": "TG",
+            "adminDistrict2": "Medak",
+            "countryRegion": "India",
+            "formattedAddress": "Masjid, India",
+            "locality": "Manoharabad"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                17.740690231323242,
+                78.49076843261719
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "39e197b9fa46489b963ed35ed7c2a740|HK00000BDE|0.0.0.1|Ref A: 63415ABD8CE1402CA3AF302D8C8375B0 Ref B: HK2EDGE1109 Ref C: 2020-12-11T07:53:35Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 5,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.971357345581055,
+            72.82357788085938,
+            18.99510383605957,
+            72.83544158935547
+          ],
+          "name": "400011, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.982370376586914,
+              72.83479309082031
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "400011, India",
+            "locality": "Mumbai",
+            "postalCode": "400011"
+          },
+          "confidence": "Medium",
+          "entityType": "Postcode1",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.982370376586914,
+                72.83479309082031
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.978939056396484,
+            72.81453704833984,
+            18.991750717163086,
+            72.82475280761719
+          ],
+          "name": "Mahalaxmi Race Course, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.98554801940918,
+              72.81986999511719
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Mahalaxmi Race Course, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Low",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.98554801940918,
+                72.81986999511719
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            50.43356098848401,
+            30.411424311500017,
+            50.441286423625364,
+            30.427595463890608
+          ],
+          "name": "Nomer 2, Ukraine",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              50.43742370605469,
+              30.419509887695312
+            ]
+          },
+          "address": {
+            "adminDistrict": "Kyiv City",
+            "countryRegion": "Ukraine",
+            "formattedAddress": "Nomer 2, Ukraine",
+            "locality": "Solomyanskyi"
+          },
+          "confidence": "Low",
+          "entityType": "Park",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                50.43742370605469,
+                30.419509887695312
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            50.40867771822034,
+            30.42343722526869,
+            50.41640315336169,
+            30.43959988410631
+          ],
+          "name": "Nomer 2, Ukraine",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              50.412540435791016,
+              30.4315185546875
+            ]
+          },
+          "address": {
+            "adminDistrict": "Kyiv City",
+            "countryRegion": "Ukraine",
+            "formattedAddress": "Nomer 2, Ukraine",
+            "locality": "Solomyanskyi"
+          },
+          "confidence": "Low",
+          "entityType": "RailwayStation",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                50.412540435791016,
+                30.4315185546875
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            50.471093794880495,
+            30.49460309043648,
+            50.47881923002185,
+            30.510787076799847
+          ],
+          "name": "Nomer 2, Ukraine",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              50.47495651245117,
+              30.502695083618164
+            ]
+          },
+          "address": {
+            "adminDistrict": "Kyiv City",
+            "countryRegion": "Ukraine",
+            "formattedAddress": "Nomer 2, Ukraine",
+            "locality": "Podilskyi"
+          },
+          "confidence": "Low",
+          "entityType": "Park",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                50.47495651245117,
+                30.502695083618164
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "ff1da69e8e6245558f83e8d2fa4a7ab8|HK00000BDC|0.0.0.1|Ref A: 430CD751221B4C5D869387D3FD96515C Ref B: HK2EDGE1017 Ref C: 2020-12-11T07:53:36Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 5,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.971357345581055,
+            72.82357788085938,
+            18.99510383605957,
+            72.83544158935547
+          ],
+          "name": "400011, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.982370376586914,
+              72.83479309082031
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "400011, India",
+            "locality": "Mumbai",
+            "postalCode": "400011"
+          },
+          "confidence": "Medium",
+          "entityType": "Postcode1",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.982370376586914,
+                72.83479309082031
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            31.329160690307617,
+            -109.05375671386719,
+            37.00406265258789,
+            -103.00465393066406
+          ],
+          "name": "New Mexico",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              34.42136764526367,
+              -106.10839080810547
+            ]
+          },
+          "address": {
+            "adminDistrict": "NM",
+            "countryRegion": "United States",
+            "formattedAddress": "New Mexico"
+          },
+          "confidence": "Medium",
+          "entityType": "AdminDivision1",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                34.42136764526367,
+                -106.10839080810547
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            22.5180606842041,
+            72.9115982055664,
+            22.57917594909668,
+            72.98869323730469
+          ],
+          "name": "Anand, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              22.563201904296875,
+              72.96028137207031
+            ]
+          },
+          "address": {
+            "adminDistrict": "GJ",
+            "countryRegion": "India",
+            "formattedAddress": "Anand, India",
+            "locality": "Anand"
+          },
+          "confidence": "Low",
+          "entityType": "PopulatedPlace",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                22.563201904296875,
+                72.96028137207031
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.976716658650027,
+            72.82304491923692,
+            18.98444209379138,
+            72.83393750263808
+          ],
+          "name": "Jecob Circle, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.980579376220703,
+              72.8284912109375
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Jecob Circle, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Low",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.980579376220703,
+                72.8284912109375
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.979692459106445,
+            72.82920837402344,
+            18.98224639892578,
+            72.83203887939453
+          ],
+          "name": "Jacob Circle, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.981229782104492,
+              72.83047485351562
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Jacob Circle, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Low",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.981229782104492,
+                72.83047485351562
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "822cdc1ae5684c179561e4ccde5acb28|HK00000C09|0.0.0.1|Ref A: B31148987F28458EB0383B6EB9FD4F44 Ref B: HK2EDGE1018 Ref C: 2020-12-11T07:53:36Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 4,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.982291838703738,
+            72.82884307681226,
+            18.99001727384509,
+            72.83973602475024
+          ],
+          "name": "Chinchpokli, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.986154556274414,
+              72.83428955078125
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Chinchpokli, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.986154556274414,
+                72.83428955078125
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            6.760433197021484,
+            68.19502258300781,
+            37.07828140258789,
+            97.4153060913086
+          ],
+          "name": "India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              22.351993560791016,
+              79.36287689208984
+            ]
+          },
+          "address": {
+            "countryRegion": "India",
+            "formattedAddress": "India"
+          },
+          "confidence": "Medium",
+          "entityType": "CountryRegion",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                22.351993560791016,
+                79.36287689208984
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            50.43356098848401,
+            30.411424311500017,
+            50.441286423625364,
+            30.427595463890608
+          ],
+          "name": "Nomer 2, Ukraine",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              50.43742370605469,
+              30.419509887695312
+            ]
+          },
+          "address": {
+            "adminDistrict": "Kyiv City",
+            "countryRegion": "Ukraine",
+            "formattedAddress": "Nomer 2, Ukraine",
+            "locality": "Solomyanskyi"
+          },
+          "confidence": "Low",
+          "entityType": "Park",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                50.43742370605469,
+                30.419509887695312
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            50.40867771822034,
+            30.42343722526869,
+            50.41640315336169,
+            30.43959988410631
+          ],
+          "name": "Nomer 2, Ukraine",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              50.412540435791016,
+              30.4315185546875
+            ]
+          },
+          "address": {
+            "adminDistrict": "Kyiv City",
+            "countryRegion": "Ukraine",
+            "formattedAddress": "Nomer 2, Ukraine",
+            "locality": "Solomyanskyi"
+          },
+          "confidence": "Low",
+          "entityType": "RailwayStation",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                50.412540435791016,
+                30.4315185546875
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "88fad1ba220640edb4f5b5ec5e49908e|HK00000C0B|0.0.0.1|Ref A: CCE6D6079D1447A6B6208CB10B3CF09B Ref B: HK2EDGE1118 Ref C: 2020-12-11T07:53:37Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 3,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.982291838703738,
+            72.82884307681226,
+            18.99001727384509,
+            72.83973602475024
+          ],
+          "name": "Chinchpokli, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.986154556274414,
+              72.83428955078125
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Chinchpokli, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.986154556274414,
+                72.83428955078125
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            6.760433197021484,
+            68.19502258300781,
+            37.07828140258789,
+            97.4153060913086
+          ],
+          "name": "India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              22.351993560791016,
+              79.36287689208984
+            ]
+          },
+          "address": {
+            "countryRegion": "India",
+            "formattedAddress": "India"
+          },
+          "confidence": "Medium",
+          "entityType": "CountryRegion",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                22.351993560791016,
+                79.36287689208984
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            63.26234436035156,
+            22.8068790435791,
+            63.28950500488281,
+            22.83807945251465
+          ],
+          "name": "Voltti, Finland",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              63.286865234375,
+              22.819814682006836
+            ]
+          },
+          "address": {
+            "adminDistrict": "West and Inner Finland",
+            "countryRegion": "Finland",
+            "formattedAddress": "Voltti, Finland",
+            "locality": "Voltti"
+          },
+          "confidence": "Low",
+          "entityType": "PopulatedPlace",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                63.286865234375,
+                22.819814682006836
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "226c10cfff584536b4ab61aac1167419|HK00000C06|0.0.0.1|Ref A: D830066A83F24018BA75C21266BCDCA9 Ref B: HK2EDGE1108 Ref C: 2020-12-11T07:53:37Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 3,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.966270110188113,
+            72.79795218197917,
+            18.973995545329466,
+            72.80884408266927
+          ],
+          "name": "Breach Candy, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.97013282775879,
+              72.80339813232422
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Breach Candy, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.97013282775879,
+                72.80339813232422
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.96993794160901,
+            72.7991575064891,
+            18.977663376750364,
+            72.81004964683122
+          ],
+          "name": "Breach Candy Hospital, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.973800659179688,
+              72.80460357666016
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Breach Candy Hospital, India",
+            "locality": "Mumbai"
+          },
+          "confidence": "Medium",
+          "entityType": "Unknown",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.973800659179688,
+                72.80460357666016
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.971569061279297,
+            72.80307006835938,
+            18.973834991455078,
+            72.80546569824219
+          ],
+          "name": "Breach Candy Hospital Trust, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.972721099853516,
+              72.80428314208984
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Breach Candy Hospital Trust, India",
+            "locality": "Cumballa Hill"
+          },
+          "confidence": "Medium",
+          "entityType": "Hospital",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.972721099853516,
+                72.80428314208984
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "Ambiguous",
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "2eeef4632eac4b57b74735d36e9639a3|HK00000BE1|0.0.0.1|Ref A: C2BCD2A1C4504BFEB3BF376992DA2AC4 Ref B: HK2EDGE1014 Ref C: 2020-12-11T07:53:38Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 4,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.959895751057253,
+            72.80013439699623,
+            18.967621186198606,
+            72.81102588132408
+          ],
+          "name": "Kemps Corner, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.96375846862793,
+              72.80558013916016
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "Kemps Corner, India",
+            "locality": "Cumballa Hill"
+          },
+          "confidence": "Medium",
+          "entityType": "Neighborhood",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.96375846862793,
+                72.80558013916016
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            6.760433197021484,
+            68.19502258300781,
+            37.07828140258789,
+            97.4153060913086
+          ],
+          "name": "India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              22.351993560791016,
+              79.36287689208984
+            ]
+          },
+          "address": {
+            "countryRegion": "India",
+            "formattedAddress": "India"
+          },
+          "confidence": "Medium",
+          "entityType": "CountryRegion",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                22.351993560791016,
+                79.36287689208984
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            70.09649658203125,
+            22.687963485717773,
+            71.16402435302734,
+            25.50177764892578
+          ],
+          "name": "96, Norway",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              70.68706512451172,
+              23.9399356842041
+            ]
+          },
+          "address": {
+            "adminDistrict": "Finnmark",
+            "adminDistrict2": "Hammerfest",
+            "countryRegion": "Norway",
+            "formattedAddress": "96, Norway",
+            "locality": "Hammerfest",
+            "postalCode": "96"
+          },
+          "confidence": "Low",
+          "entityType": "Postcode2",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                70.68706512451172,
+                23.9399356842041
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.157392837222286,
+            -77.38389791670102,
+            18.2153336032074,
+            -77.30259500322086
+          ],
+          "name": "Corner Shop, Jamaica",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.186363220214844,
+              -77.34324645996094
+            ]
+          },
+          "address": {
+            "adminDistrict": "Clarendon",
+            "countryRegion": "Jamaica",
+            "formattedAddress": "Corner Shop, Jamaica",
+            "locality": "Corner Shop"
+          },
+          "confidence": "Low",
+          "entityType": "PopulatedPlace",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.186363220214844,
+                -77.34324645996094
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "08ccb63798824574bb9e12d5698d9d3c|HK00000BE0|0.0.0.1|Ref A: 4A0E9EC8CDB94924813092F696512513 Ref B: HK2EDGE0111 Ref C: 2020-12-11T07:53:38Z"
+}
+
+
+{
+  "authenticationResultCode": "ValidCredentials",
+  "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+  "copyright": "Copyright \u00a9 2020 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+  "resourceSets": [
+    {
+      "estimatedTotal": 4,
+      "resources": [
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            18.961984634399414,
+            72.80156707763672,
+            18.97842025756836,
+            72.81521606445312
+          ],
+          "name": "400026, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              18.970748901367188,
+              72.80403137207031
+            ]
+          },
+          "address": {
+            "adminDistrict": "MH",
+            "countryRegion": "India",
+            "formattedAddress": "400026, India",
+            "locality": "Mumbai",
+            "postalCode": "400026"
+          },
+          "confidence": "Medium",
+          "entityType": "Postcode1",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                18.970748901367188,
+                72.80403137207031
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            6.760433197021484,
+            68.19502258300781,
+            37.07828140258789,
+            97.4153060913086
+          ],
+          "name": "India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              22.351993560791016,
+              79.36287689208984
+            ]
+          },
+          "address": {
+            "countryRegion": "India",
+            "formattedAddress": "India"
+          },
+          "confidence": "Medium",
+          "entityType": "CountryRegion",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                22.351993560791016,
+                79.36287689208984
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            25.119264602661133,
+            85.43880462646484,
+            25.145416259765625,
+            85.46573638916016
+          ],
+          "name": "Nalanda, India",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              25.1282901763916,
+              85.45022583007812
+            ]
+          },
+          "address": {
+            "adminDistrict": "BR",
+            "adminDistrict2": "Nalanda",
+            "countryRegion": "India",
+            "formattedAddress": "Nalanda, India",
+            "locality": "Nalanda"
+          },
+          "confidence": "Low",
+          "entityType": "PopulatedPlace",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                25.1282901763916,
+                85.45022583007812
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        },
+        {
+          "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+          "bbox": [
+            -43.04176712036133,
+            145.98216247558594,
+            -42.76449966430664,
+            146.36367797851562
+          ],
+          "name": "Lake Pedder, Australia",
+          "point": {
+            "type": "Point",
+            "coordinates": [
+              -42.9206657409668,
+              146.1646728515625
+            ]
+          },
+          "address": {
+            "adminDistrict": "TAS",
+            "countryRegion": "Australia",
+            "formattedAddress": "Lake Pedder, Australia",
+            "locality": "Southwest"
+          },
+          "confidence": "Low",
+          "entityType": "Lake",
+          "geocodePoints": [
+            {
+              "type": "Point",
+              "coordinates": [
+                -42.9206657409668,
+                146.1646728515625
+              ],
+              "calculationMethod": "Rooftop",
+              "usageTypes": [
+                "Display"
+              ]
+            }
+          ],
+          "matchCodes": [
+            "UpHierarchy"
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "statusDescription": "OK",
+  "traceId": "de91706f3d794453865eafe1670833b7|HK00000C14|0.0.0.1|Ref A: 62C3D2A427904A5E847DDAC45F88DA9F Ref B: HK2EDGE1122 Ref C: 2020-12-11T07:53:39Z"
+}
