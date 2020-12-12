@@ -2,9 +2,10 @@ import os
 import csv
 import json
 
-csv_list = os.listdir("zoneCSVs")
+csv_list = os.listdir("zoneCSVsAddress")
 
-mainFields = ["Name", "Distance", "Rating", "Votes", "Address", "OriginFile"]
+mainFields = ["Name", "Distance", "Rating",
+              "Votes", "Address", "Website", "OriginFile"]
 mainData = []
 mainDataNameAddress = []
 
@@ -12,7 +13,7 @@ mainDataNameAddress = []
 def firstFunc():
     for sheetName in csv_list:
         sheetData = []
-        with open("zoneCSVs/" + sheetName, 'r') as sheet:
+        with open("zoneCSVsAddress/" + sheetName, 'r') as sheet:
             csvreader = csv.reader(sheet)
             fields = next(csvreader)
             sheetData = [row for row in csvreader if len(row) > 0]
@@ -23,7 +24,7 @@ def firstFunc():
                     x.append(sheetName.split(".")[0])
                     mainData.append(x)
 
-    with open("outputCSVs/combinedCSV.csv", 'w') as csvfile:
+    with open("outputCSVsAddress/combinedCSV.csv", 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(mainFields)
         csvwriter.writerows(mainData)
@@ -55,7 +56,7 @@ def secondFunc():
                 ["Kanjurmarg", "Vikhroli"],
                 ["Borivali", "Dahisar"],
                 ["Mira-Bhayandar"], ["Trombay"]]
-    with open("outputCSVs/combinedCSV.csv", 'r') as csvfile:
+    with open("outputCSVsAddress/combinedCSV.csv", 'r') as csvfile:
         csvreader = csv.reader(csvfile)
         fields = next(csvreader)
         sheetData = [row for row in csvreader if len(row) > 0]
@@ -95,7 +96,7 @@ def secondFunc():
                 print(e)
     print(json.dumps(zoneNumbers, indent=2))
     print(passCount, totalCount)
-    with open("outputCSVs/combinedCSV1.csv", 'w') as csvfile:
+    with open("outputCSVsAddress/combinedCSV1.csv", 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(mainFields)
         csvwriter.writerows(mainData)
