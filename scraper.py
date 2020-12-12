@@ -8,12 +8,14 @@ def formatText(text):
 
 
 # CHANGE LINE 10, I MOVED HTMLS INTO HTML, SHOULD BE IN ROOT
-site_list = [f.path for f in os.scandir() if f.is_file()]
+site_list = [f.path for f in os.scandir(path="HTML/") if f.is_file()]
 
 for file in site_list:
-    fields = ["Name", "Distance", "Rating", "Votes", "Address"]
+    fields = ["Name", "Distance", "Rating", "Votes", "Address",
+              "Website"]  # Added website for zoneCSVsAddress/
     data = []
-    if file == ".\scraper.py":
+    ext = os.path.splitext(file)[1]
+    if ext != ".htm" and ext != ".html":
         continue
     print(file)
     content = open(file, "r", encoding="utf8").read()
@@ -65,10 +67,16 @@ for file in site_list:
         except:
             currentData.append("")
 
+        try:
+            currentData.append(formatText(
+                soup.find("li", class_="cntanr")["data-href"]))
+        except:
+            currentData.append()
+
         # print(currentData)
         data.append(currentData)
 
-    csvName = "zoneCSVs/" + file.split("\\")[1].split(".")[0] + ".csv"
+    csvName = "zoneCSVsAddress/" + file.split("/")[1].split(".")[0] + ".csv"
     with open(csvName, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(fields)

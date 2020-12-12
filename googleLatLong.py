@@ -2,7 +2,7 @@ import googlemaps
 import json
 import csv
 
-gmaps = googlemaps.Client(key='')
+gmaps = googlemaps.Client(key='AIzaSyAuZ7CnSeThfXkI-I-khTEO7ANYeTCPwzM')
 
 
 def getlatlong(storeAddress):
