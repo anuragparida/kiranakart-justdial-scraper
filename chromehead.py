@@ -7,6 +7,7 @@ pygame.init()
 
 def openChromeTab(url):
     return webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s").open(url, new=0, autoraise=False)
+    # return webbrowser.get("open -a /Applications/Google\ Chrome.app %s").open(url, new=0, autoraise=False)
 
 
 def game(url):
