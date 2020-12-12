@@ -25,10 +25,10 @@ def game(url):
                 if event.key == pygame.K_a:
                     running = False
                     return 0
-                elif event.key == pygame.K_f:
+                elif event.key == pygame.K_h:
                     running = False
                     return 1
-                elif event.key == pygame.K_l:
+                elif event.key == pygame.K_r:
                     running = False
                     print("REACH")
                     return 2
